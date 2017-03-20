@@ -22,12 +22,8 @@ network. pnut.io is also some more, but this is even not unpresented, as
 you'll find more if you remove the peanut's shell _(a lame metaphor is better
 than no metaphor. At least I hope so)_.
 
-The logo and this site make use of Christian Robertson's [Roboto][1] and
-[Roboto Slab][2].
-
-   [1]: https://fonts.google.com/specimen/Roboto
-
-   [2]: https://fonts.google.com/specimen/Roboto+Slab
+The logo makes use of Christian Robertson's [Roboto](https://fonts.google.com/specimen/Roboto) and
+[Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab).
 
 #### The iterations of the pnut logo
 All files as PNG and SVG.
