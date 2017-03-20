@@ -1,6 +1,8 @@
 pnut.io logos
 ====================
 
+![pnut logo](https://github.com/brainseller/pnutLogo/blob/master/logo_type.png?raw=true)
+
 **pnut.io** is a short-messaging social network. The messages have a limited
 length, and you can follow folks, and be followed by folks. It's similar to
 App.net and Twitter.
