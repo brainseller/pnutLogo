@@ -1,8 +1,6 @@
 pnut.io logos
 ====================
 
-## pnut.io
-
 **pnut.io** is a short-messaging social network. The messages have a limited
 length, and you can follow folks, and be followed by folks. It's similar to
 App.net and Twitter.
@@ -22,8 +20,7 @@ network. pnut.io is also some more, but this is even not unpresented, as
 you'll find more if you remove the peanut's shell _(a lame metaphor is better
 than no metaphor. At least I hope so)_.
 
-The logo makes use of Christian Robertson's [Roboto](https://fonts.google.com/specimen/Roboto) and
-[Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab).
+The logo makes use of Christian Robertson's [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab).
 
 #### The iterations of the pnut logo
 All files as PNG and SVG.
