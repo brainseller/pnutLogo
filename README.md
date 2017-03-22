@@ -28,6 +28,6 @@ The logo makes use of Christian Robertson's [Roboto Slab](https://fonts.google.c
 All files as PNG and SVG.
 Versions for bright and versions for dark background (NEG);
 
-Color is #0097A3
+Color is #008C99
 
 [View All](https://frankfuchs.net/pnut)
